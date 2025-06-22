@@ -91,7 +91,7 @@ export default function LandingPage() {
       {/* India Map Image */}
       <div className="flex-1 max-w-md">
         <img 
-          src="public/map-india-with-tricolor.png" 
+          src="/map-india-with-tricolor.png" 
           alt="India Map" 
           className="w-full h-auto"
         />
